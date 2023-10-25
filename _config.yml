@@ -16,7 +16,7 @@ timezone:
 
 title: BobBuildahh # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Senior Shrimp Roll Engineer at SpanchBobSecurity.  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: ""
 
 github:
-  username: github_username # change to your github username
+  username: BobBuildahh # change to your github username
 
 twitter:
   username: twitter_username # change to your twitter username
