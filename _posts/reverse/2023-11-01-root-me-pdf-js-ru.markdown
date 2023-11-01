@@ -45,8 +45,8 @@ categories: reverse
 
 Складываем строку в правильном порядке:
 
->HeGJR4 = YcQpjo + cYQpjo + zjocYQp;
-HeGJR4 = author + title + subject;
+>HeGJR4 = YcQpjo + cYQpjo + zjocYQp;  
+HeGJR4 = author + title + subject;  
 HeGJR4 = "dVbFZxLu7en8hJhhFfCTIOer76hBPONCxj5oWJOch2E0ir5BI05QuClyYTLnHBmzI5xlmqMpKN14VZNWuCulWR2fy4X6jS3j";
 
 Теперь можно подставлять в наш скрипт эту строку и проверять вывод:
