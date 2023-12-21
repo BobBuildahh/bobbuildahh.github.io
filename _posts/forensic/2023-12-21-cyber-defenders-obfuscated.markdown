@@ -113,7 +113,7 @@ And look at the first line.
 > That's all
 
 Thank you for reading guys, thanks to Josh for the challenge, thanks to cyberdefenders community.  
-cyberdefenders.org: [click](https://cyberdefenders.org/)
-oledump: [click](https://blog.didierstevens.com/programs/oledump-py/)
-any.run: [click](https://any.run/)
-decode-encode: [click](https://encode-decode.com/)
+cyberdefenders.org: [click](https://cyberdefenders.org/)  
+oledump: [click](https://blog.didierstevens.com/programs/oledump-py/)  
+any.run: [click](https://any.run/)  
+decode-encode: [click](https://encode-decode.com/)  
