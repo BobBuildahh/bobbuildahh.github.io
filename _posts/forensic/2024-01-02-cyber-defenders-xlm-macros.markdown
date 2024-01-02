@@ -2,7 +2,7 @@
 layout: post
 title:  "EN | 'XLM Macros by Josh Stroschein' from cyberdefenders.org"
 date:   2024-01-02 09:00:02 +0300
-categories: forensic
+categories: forensic, reverse
 ---
 ![0](/assets/XLM_0.jpg)
 
